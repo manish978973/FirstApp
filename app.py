@@ -23,7 +23,7 @@ def add():
            <html>
               <body>
                  <p>The result is {result} </p>
-                  <p><a href="/">Click here to recalculate</a> </p>
+                  <p><a href="/">Click here  to recalculate</a> </p>
               </body>
            </html>
         '''.format(result=result)
